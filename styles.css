@@ -6,7 +6,7 @@ html {
 h1 {
   font-size: 7rem;
   font-weight: 400;
-  margin-left: 24px;
+  margin-left: 2rem;
 }
 
 h2 {
@@ -35,16 +35,16 @@ hr {
   background-color: #fff;
   position: sticky;
   top: 0;
-  padding-top: 5px;
+  padding-top: 0.5rem;
 }
 
 .nav1 {
   display: flex;
   justify-content: space-between;
   margin: 2rem;
-  height: 28px;
+  height: 2rem;
   position: sticky;
-  top: 20px;
+  top: 2rem;
 }
 
 .nav2 {
@@ -77,12 +77,6 @@ hr {
   justify-content: center;
   margin-top: 0;
 }
-
-/* .hittepå {
-  max-width: 30rem;
-  display: flex;
-  margin-left: 40rem;
-} */
 
 .ommig2 {
   display: flex;
@@ -155,57 +149,20 @@ hr {
   max-width: 30rem;
   min-width: 9rem;
   max-height: 37rem;
-  /* height: 480px; */
   background: #ffffff;
   border-radius: 2rem;
   border: solid 0.16rem #dfdfdf;
   margin-top: 5rem;
   padding: 2rem;
-  /* position: relative; */
   flex: 1;
   display: flex;
   flex-direction: column;
 }
 
-/* .img1 {
-  width: 100%;
-  height: 12rem;
-  background-image: url(img/valet.png);
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-color: #bdcfa8;
-} */
-
-/* .img2 {
-  width: 100%;
-  height: 12rem;
-  background-image: url(img/stickan.png);
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  background-size: contain;
-  background-color: #bdcfa8;
-  background-repeat: no-repeat;
-  justify-content: center;
-}
-
-/* .img3 {
-  width: 100%;
-  height: 12rem;
-  background-image: url(img/supply.png);
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-color: #bdcfa8;
-} */
-
 .kortbild {
   display: flex;
   width: 100%;
   height: 15.6rem;
-  /* margin-top: 2rem; */
   margin-bottom: 2rem;
   background-color: #bdcfa8;
   justify-content: center;
@@ -235,7 +192,6 @@ hr {
 }
 
 .casecontainer {
-  /* margin: auto; */
   display: flex;
   align-items: center;
   flex-direction: column;
