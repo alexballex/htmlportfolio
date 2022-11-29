@@ -107,6 +107,12 @@ hr {
   margin-top: 2rem;
 }
 
+.text {
+  background: linear-gradient(to right, #bdcfa8 0%, #424c35 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 /* Klasser Knapp */
 .button {
   background-color: #bdcfa8;
